@@ -1,2 +1,2 @@
 # Laptop-Analysis
-This is a personal project about analyzing laptop sales. I use Excel now but in the future I will try to use Python as well fot the analysis
+This is a project about analyzing and visualizing laptop sales using Excel
